@@ -37,7 +37,7 @@ export function SplashPage() {
           className="flex flex-col items-center"
         >
           <p className="mt-4 max-w-xs text-base font-medium text-[#4e4e4e]">
-            Your private, judgment-free
+            Your private, judgment-free check
             sexual <br /> health educator.
           </p>
 
